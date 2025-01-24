@@ -1,0 +1,7 @@
+C:\Project\Inheritance\Inheritance single\Inheritance single\bin\Debug\Inheritance single.exe.config
+C:\Project\Inheritance\Inheritance single\Inheritance single\bin\Debug\Inheritance single.exe
+C:\Project\Inheritance\Inheritance single\Inheritance single\bin\Debug\Inheritance single.pdb
+C:\Project\Inheritance\Inheritance single\Inheritance single\obj\Debug\Inheritance single.csproj.AssemblyReference.cache
+C:\Project\Inheritance\Inheritance single\Inheritance single\obj\Debug\Inheritance single.csproj.CoreCompileInputs.cache
+C:\Project\Inheritance\Inheritance single\Inheritance single\obj\Debug\Inheritance single.exe
+C:\Project\Inheritance\Inheritance single\Inheritance single\obj\Debug\Inheritance single.pdb
