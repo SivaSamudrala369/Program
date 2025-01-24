@@ -1,0 +1,7 @@
+C:\Project\Inheritance\InhertanceMultiLevel\InhertanceMultiLevel\bin\Debug\InhertanceMultiLevel.exe.config
+C:\Project\Inheritance\InhertanceMultiLevel\InhertanceMultiLevel\bin\Debug\InhertanceMultiLevel.exe
+C:\Project\Inheritance\InhertanceMultiLevel\InhertanceMultiLevel\bin\Debug\InhertanceMultiLevel.pdb
+C:\Project\Inheritance\InhertanceMultiLevel\InhertanceMultiLevel\obj\Debug\InhertanceMultiLevel.csproj.AssemblyReference.cache
+C:\Project\Inheritance\InhertanceMultiLevel\InhertanceMultiLevel\obj\Debug\InhertanceMultiLevel.csproj.CoreCompileInputs.cache
+C:\Project\Inheritance\InhertanceMultiLevel\InhertanceMultiLevel\obj\Debug\InhertanceMultiLevel.exe
+C:\Project\Inheritance\InhertanceMultiLevel\InhertanceMultiLevel\obj\Debug\InhertanceMultiLevel.pdb
