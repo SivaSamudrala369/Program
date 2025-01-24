@@ -1,0 +1,7 @@
+C:\Project\Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\Hierarchical Inheritance.exe.config
+C:\Project\Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\Hierarchical Inheritance.exe
+C:\Project\Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\Hierarchical Inheritance.pdb
+C:\Project\Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\Hierarchical Inheritance.csproj.AssemblyReference.cache
+C:\Project\Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\Hierarchical Inheritance.csproj.CoreCompileInputs.cache
+C:\Project\Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\Hierarchical Inheritance.exe
+C:\Project\Inheritance\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\Hierarchical Inheritance.pdb
