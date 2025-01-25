@@ -1,0 +1,7 @@
+C:\Project\Inheritance\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+C:\Project\Inheritance\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Project\Inheritance\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Project\Inheritance\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Project\Inheritance\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Project\Inheritance\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Project\Inheritance\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
