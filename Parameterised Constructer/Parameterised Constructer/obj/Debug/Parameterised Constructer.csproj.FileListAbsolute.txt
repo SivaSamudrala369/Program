@@ -1,0 +1,7 @@
+C:\Project\Inheritance\Conctructor\Parameterised Constructer\Parameterised Constructer\bin\Debug\Parameterised Constructer.exe.config
+C:\Project\Inheritance\Conctructor\Parameterised Constructer\Parameterised Constructer\bin\Debug\Parameterised Constructer.exe
+C:\Project\Inheritance\Conctructor\Parameterised Constructer\Parameterised Constructer\bin\Debug\Parameterised Constructer.pdb
+C:\Project\Inheritance\Conctructor\Parameterised Constructer\Parameterised Constructer\obj\Debug\Parameterised Constructer.csproj.AssemblyReference.cache
+C:\Project\Inheritance\Conctructor\Parameterised Constructer\Parameterised Constructer\obj\Debug\Parameterised Constructer.csproj.CoreCompileInputs.cache
+C:\Project\Inheritance\Conctructor\Parameterised Constructer\Parameterised Constructer\obj\Debug\Parameterised Constructer.exe
+C:\Project\Inheritance\Conctructor\Parameterised Constructer\Parameterised Constructer\obj\Debug\Parameterised Constructer.pdb
