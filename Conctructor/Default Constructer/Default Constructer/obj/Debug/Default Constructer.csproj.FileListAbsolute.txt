@@ -1,0 +1,7 @@
+C:\Project\Inheritance\Conctructor\Default Constructer\Default Constructer\bin\Debug\Default Constructer.exe.config
+C:\Project\Inheritance\Conctructor\Default Constructer\Default Constructer\bin\Debug\Default Constructer.exe
+C:\Project\Inheritance\Conctructor\Default Constructer\Default Constructer\bin\Debug\Default Constructer.pdb
+C:\Project\Inheritance\Conctructor\Default Constructer\Default Constructer\obj\Debug\Default Constructer.csproj.AssemblyReference.cache
+C:\Project\Inheritance\Conctructor\Default Constructer\Default Constructer\obj\Debug\Default Constructer.csproj.CoreCompileInputs.cache
+C:\Project\Inheritance\Conctructor\Default Constructer\Default Constructer\obj\Debug\Default Constructer.exe
+C:\Project\Inheritance\Conctructor\Default Constructer\Default Constructer\obj\Debug\Default Constructer.pdb
