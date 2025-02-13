@@ -1,59 +1,37 @@
-﻿// C# program to illustrate the 
-// Multicasting of Delegates
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-class rectangle
+namespace Dll // Delegates represents the Function/Method
 {
-
-    // declaring delegate
-    public delegate void rectDelegate(double height,
-                                      double width);
-
-    // "area" method
-    public void area(double height, double width)
+    //Creatinf Delegates
+    delegate void MulticastDelegate(int a, int b);
+    //AccessModifier delegate ReturnType DelegateName([parameters]) 
+    internal class Program
     {
-        Console.WriteLine("Area is: {0}", (width * height));
+        
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Siva");
+            Deposite.Class1 S1 = new Deposite.Class1();
+            MulticastDelegate SD = new MulticastDelegate(S1.Add); // Creating Objecct
+            // DelegateName DelegateObjectName = new DelegateName(Function)
+            // Calling Methods in Single Cast Delegate
+            // Calling Methods in Multi Cast Delegate
+            SD += S1.Sub; //DelegateObjectName(parameters)--> For Single Cast Delegate 
+            SD += S1.Mul; // DelegateObjectName += Object.MethodName--> For Multi Cast Delegate
+            SD += S1.Div;
+            SD(30, 40);
+            Console.WriteLine("--------------------------------------");
+            SD -= S1.Sub;
+            SD -= S1.Div;
+            SD -= S1.Add;
+            SD(60, 20);
+            Console.ReadKey();
+
+        }
     }
-
-    // "perimeter" method
-    public void perimeter(double height, double width)
-    {
-        Console.WriteLine("Perimeter is: {0} ", 2 * (width + height));
-    }
-
-
-    // Main Method
-    public static void Main(String[] args)
-    {
-
-        // creating object of class 
-        // "rectangle", named as "rect"
-        rectangle rect = new rectangle();
-
-        // these two lines are normal calling
-        // of that two methods
-        // rect.area(6.3, 4.2);
-        // rect.perimeter(6.3, 4.2);
-
-        // creating delegate object, name as "rectdele"
-        // and pass the method as parameter by 
-        // class object "rect"
-        rectDelegate rectdele = new rectDelegate(rect.area);
-
-        // also can be written as 
-        // rectDelegate rectdele = rect.area;
-
-        // call 2nd method "perimeter"
-        // Multicasting
-        rectdele += rect.perimeter;
-
-        // pass the values in two method 
-        // by using "Invoke" method
-        rectdele.Invoke(6.3, 4.2);
-        Console.WriteLine();
-
-        // call the methods with 
-        // different values
-        rectdele.Invoke(16.3, 10.3);
-    }
+    
 }
